@@ -1,0 +1,9 @@
+You can download the dataset from: https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics
+
+The data set contains three CSVs:
+
+Austin_Animal_Center_Intakes.csv
+Austin_Animal_Center_Outcomes.csv
+Austin_Animal_Center_Stray_Map.csv
+
+Out of which I used the first two files.
